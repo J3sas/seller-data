@@ -1,8 +1,12 @@
 {
-    "posts": [
+    "seller_names": [
       {
         "id": 1,
-        "title": "hello worlrd"
+        "title": "seller name 1"
+      },
+      {
+        "id": 2,
+        "title": "seller name 2"
       }
     ],
     "profile": {
